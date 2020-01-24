@@ -1,0 +1,8 @@
+tmp/
+
+example_tests/client/
+example_tests/server/
+compose/
+/.gradle/
+/.project
+/.settings/
